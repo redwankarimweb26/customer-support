@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+*{
+     font-family: "Inter", sans-serif;
+}
+.box-1{
+     background-image: url('assets/vector1.png'), url('assets/image.png'), linear-gradient(125.07deg, rgba(99, 46, 227, 1), rgba(159, 98, 242, 1) 100%); background-position: left top, right top, center; background-size: 300px 100%, 300px 100%, cover; background-repeat: no-repeat;
+}
+.box-2{
+     background-image: url('assets/vector1.png'), url('assets/image.png'), linear-gradient(125.07deg, rgb(84, 207, 104), rgb(0, 130, 122) 100%); background-position: left top, right top, center; background-size: 300px 100%, 300px 100%, cover; background-repeat: no-repeat;
+}

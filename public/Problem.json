@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Failed - Access Denied",
+    "description": "User unable to sign in even after entering correct credentials on multiple attempts today.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/15/2024"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Declined by Bank",
+    "description": "Payment not processing due to suspected card block or expired payment method details.",
+    "customer": "Sarah Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/16/2024"
+  },
+  {
+    "id": 1003,
+    "title": "Invoice Not Downloading",
+    "description": "Customer tried to download invoice file from account page but received blank PDF instead.",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/17/2024"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Address in Profile",
+    "description": "Billing address automatically resets to old entry after user saves the updated information.",
+    "customer": "Emily Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/18/2024"
+  },
+  {
+    "id": 1005,
+    "title": "App Crashing Frequently",
+    "description": "Mobile app closes unexpectedly during startup, especially on devices running Android version thirteen.",
+    "customer": "David Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/19/2024"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Still Pending",
+    "description": "Refund not received even after seven business days since cancellation confirmation email was sent.",
+    "customer": "Sophia Taylor",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/20/2024"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Code Missing",
+    "description": "User reports not receiving any verification codes via SMS during login using two-factor authentication.",
+    "customer": "James Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/21/2024"
+  },
+  {
+    "id": 1008,
+    "title": "Profile Picture Upload Error",
+    "description": "User unable to upload image as profile picture due to unsupported file type or size limit.",
+    "customer": "Olivia Martinez",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/22/2024"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Renewal Failed",
+    "description": "System failed to auto-renew subscription despite valid payment method being active in account.",
+    "customer": "Liam Thomas",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/23/2024"
+  },
+  {
+    "id": 1010,
+    "title": "Order Confirmation Missing",
+    "description": "Customer placed order successfully but did not receive confirmation email or SMS afterward.",
+    "customer": "Isabella Garcia",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "1/24/2024"
+  },
+  {
+    "id": 1011,
+    "title": "Slow Website Loading",
+    "description": "Pages taking unusually long time to load especially on product and checkout sections today.",
+    "customer": "Daniel Carter",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "1/25/2024"
+  },
+  {
+    "id": 1012,
+    "title": "Email Alerts Disabled",
+    "description": "User claims to have enabled alerts but no promotional or update emails have been received.",
+    "customer": "Emma White",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "1/26/2024"
+  },
+  {
+    "id": 1013,
+    "title": "Delivery Arrived Late",
+    "description": "Package arrived two days after expected delivery date with no tracking updates in between.",
+    "customer": "Lucas Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "1/27/2024"
+  },
+  {
+    "id": 1014,
+    "title": "Password Reset Link Expired",
+    "description": "Reset link expired before customer could enter new password leading to multiple retry attempts.",
+    "customer": "Charlotte Brown",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "1/28/2024"
+  }
+  
+]
+
